@@ -18,3 +18,6 @@ I developed the following characters in the game
 - Laser Dragon
 
 The other parts are provided by the IBHUBS in the 10xIITian program
+
+
+Run gui.py in projetc directory to start the game
